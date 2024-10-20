@@ -1,0 +1,14 @@
+{
+  "name": "js-backend-advance-now-starts",
+  "version": "1.0.0",
+  "description": "now the backend master is started",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Rizwan",
+  "license": "ISC"
+}
