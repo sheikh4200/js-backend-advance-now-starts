@@ -1,0 +1,6 @@
+//vs code setting
+//node-modules
+// dist
+*.env
+.env
+.env.8
